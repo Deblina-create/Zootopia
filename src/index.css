@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.bgImage{
+  background-image: url("./assets/Voices_Rainforest_Main-920x458.jpg");
+  height: 200px; 
+  padding:10px; 
+  text-align:center;
+}
+.bgNotification{
+  color: red;
+  font-size: 20px;
+ 
+}
+
+.buttonLink{
+  background-color: #0f9b0f;
+}
